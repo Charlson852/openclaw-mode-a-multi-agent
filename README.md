@@ -174,7 +174,13 @@ agents/
 ├── publisher/
 │   ├── SOUL.md
 │   └── AGENTS.md
-└── ops/
+├── ops/
+│   ├── SOUL.md
+│   └── AGENTS.md
+├── reviewer/
+│   ├── SOUL.md
+│   └── AGENTS.md
+└── monitor/
     ├── SOUL.md
     └── AGENTS.md
 
