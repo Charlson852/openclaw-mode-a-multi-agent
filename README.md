@@ -150,6 +150,20 @@ Mode A 第一版坚持几个原则：
 
 ---
 
+## 当前进展（2026-03-25）
+
+Mode A 已从“纯方案设计”进入“开始落地执行”的阶段：
+
+- 已建立 `analyst / publisher / ops / reviewer / monitor` 的最小记忆结构
+- 已落地默认分发规则，并形成正式文档
+- A股中台链已开始按 `analyst` 口径执行
+- 博客发布链已开始按 `publisher` 口径执行
+- 运维/同步链已开始按 `ops` 口径执行
+- `reviewer / monitor` 已接入复核与巡检链路
+
+详见：
+- [`docs/default-routing-and-current-rollout.md`](docs/default-routing-and-current-rollout.md)
+
 ## 当前目录结构
 
 ```bash
